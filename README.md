@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TikTorchic18?theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TikTorchic18&theme=github-dark-blue)](https://git.io/streak-stats)
 
 <!--
 **TikTorchic18/TikTorchic18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
