@@ -2,7 +2,7 @@
 
 ![Stats](./profile/stats.svg)
 
-![Streak](https://streak-stats.demolab.com?user=TikTorchic18&theme=catppuccin-mocha&hide_border=true)
+[![Streak](https://streak-stats.demolab.com?user=TikTorchic18&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **TikTorchic18/TikTorchic18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
