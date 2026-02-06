@@ -1,5 +1,6 @@
 ![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=catppuccin_mocha&line1=go%2CGO%2C29BEB0%3Btypescript%2Ctypescript%2C007acc%3B)
-![![GitHub Streak](https://streak-stats.demolab.com?user=TikTorchic18&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TikTorchic18&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **TikTorchic18/TikTorchic18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
