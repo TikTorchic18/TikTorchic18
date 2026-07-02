@@ -1,4 +1,5 @@
 ![Discord](https://img.shields.io/discord/1481952792322244690?logo=discord&logoColor=ffffff&label=discord&color=5865f2)
+![Matrix](https://img.shields.io/matrix/TikTorchic18%3Amatrix.org?server_fqdn=matrix.org&logo=matrix&label=matrix&color=00dd30)
 
 ![GitHub Stats](./profile/stats.svg)
 
