@@ -1,3 +1,5 @@
+![Discord](https://img.shields.io/discord/1481952792322244690?logo=discord&logoColor=ffffff&label=discord&color=5865f2&link=https%3A%2F%2Fdiscord.gg%2Fq6axFuTn6y)
+
 ![GitHub Stats](./profile/stats.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TikTorchic18&theme=catppuccin-mocha)](https://git.io/streak-stats)
