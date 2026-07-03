@@ -1,5 +1,5 @@
-![Discord](https://img.shields.io/discord/1481952792322244690?logo=discord&logoColor=ffffff&label=discord&color=5865f2)
-![Matrix](https://img.shields.io/matrix/TikTorchic18%3Amatrix.org?server_fqdn=matrix.org&logo=matrix&label=matrix&color=00dd30)
+[![Discord](https://img.shields.io/discord/1481952792322244690?logo=discord&logoColor=ffffff&label=discord&color=5865f2)](https://discord.gg/8QPPdw4Fjf)
+[![Matrix](https://img.shields.io/matrix/TikTorchic18%3Amatrix.org?server_fqdn=matrix.org&logo=matrix&label=matrix&color=00dd30)](https://matrix.to/#/#TikTorchic18:matrix.org)
 
 ![GitHub Stats](./profile/stats.svg)
 
